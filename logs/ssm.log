@@ -1,0 +1,10 @@
+[INFO] [2016-07-18 11:46:22][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@699774b8: startup date [Mon Jul 18 11:46:22 CST 2016]; root of context hierarchy
+[INFO] [2016-07-18 11:46:22][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2016-07-18 11:46:23][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-07-18 11:46:23][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-07-18 11:46:23][spring_maven.TestMybatis]{"age":22,"id":1,"name":"admin","password":"admin"}
+[INFO] [2016-07-18 11:56:16][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@31eaca2: startup date [Mon Jul 18 11:56:16 CST 2016]; root of context hierarchy
+[INFO] [2016-07-18 11:56:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-07-18 11:56:16][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-07-18 11:56:16][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-07-18 11:56:17][spring_maven.TestMybatis]{"age":22,"id":1,"name":"admin","password":"admin"}
